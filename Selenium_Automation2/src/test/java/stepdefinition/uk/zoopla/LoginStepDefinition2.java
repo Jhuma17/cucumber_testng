@@ -4,6 +4,8 @@
 import org.junit.Assert;
 import org.openqa.selenium.support.PageFactory;
 
+import com.util.HighlighterClass;
+
 import all.usa.baseclass.ZooplaSuperClass;
 import all.usa.pagefactory.MasterFageFactory2;
 import cucumber.api.java.en.Given;
@@ -15,7 +17,7 @@ public class LoginStepDefinition2 extends ZooplaSuperClass {
 	    MasterFageFactory2 pf;
 	
 	@Given("^As a user I am able to open any browser$")
-	public void as_a_user_I_am_able_to_open_any_browser()  {
+	public void as_a_user_I_am_able_to_open_any_browser() throws Throwable  {
 	logger.info("*******> As a user i can open any browser <*******");   
 	     ZooplaSuperClass.initialization();
        pf=PageFactory.initElements(driver, MasterFageFactory2.class);
@@ -32,28 +34,32 @@ public class LoginStepDefinition2 extends ZooplaSuperClass {
 	@When("^As a user i can click on signin button$")
 	public void as_a_user_i_can_click_on_signin_button()  {
 	 logger.info("*******> As a user i can click on signin button <*******");
-		pf.getClickOnSigninButton().click();
+	 HighlighterClass.getcolor(driver, pf.getClickOnSigninButton(), "blue");
+	 pf.getClickOnSigninButton().click();
 
 	}
 
 	@When("^As a user i can enter the \"([^\"]*)\" and password \"([^\"]*)\"$")
 	public void as_a_user_i_can_enter_the_and_password(String un, String pwd)  {
 	 logger.info("*******> As a user i can enter the username <*******");
-	  pf.getEnterUserName().sendKeys(un);
+	 HighlighterClass.getcolor(driver, pf.getEnterUserName(),"blue");
+	 pf.getEnterUserName().sendKeys(un);
 	 logger.info("*******> As a user i can enter the password <*******");
-	  pf.getEnterPassword().sendKeys(pwd);
+	 HighlighterClass.getcolor(driver, pf.getEnterPassword(), "blue");
+	 pf.getEnterPassword().sendKeys(pwd);
 	}
 
 	@When("^As a user i can click on login button$")
 	public void as_a_user_i_can_click_on_login_button()  {
 	 logger.info("*******> As a user i can click on login button <*******");  
-        pf.getClickLogin().click();
+	 HighlighterClass.getcolor(driver, pf.getClickLogin(), "blue");  
+	 pf.getClickLogin().click();
 	}
 
 	@When("^Homepage title should be \"([^\"]*)\"$")
 	public void homepage_title_should_be(String homeTitle)  {
 	logger.info("*******> As a user i can verify the homepage <*******");
-		 if(driver.getPageSource().contains("Incorrect email or password")) {
+	   if(driver.getPageSource().contains("Incorrect email or password")) {
 		   	System.out.println("My test is failed");
 		   	      driver.quit();                       // if test case failed browser willbe close
 		 }
@@ -67,7 +73,8 @@ public class LoginStepDefinition2 extends ZooplaSuperClass {
 	 @When("^As a user i can click on logout link$")
 	 public void as_a_user_i_can_click_on_logout_link()  {
 	 logger.info("*******> As a user i can logout the application <*******");  
-	   	 pf.getClickLogout().click(); 
+	 HighlighterClass.getcolor(driver,pf.getClickLogout(), "blue"); 
+	 pf.getClickLogout().click(); 
 
 	}
 

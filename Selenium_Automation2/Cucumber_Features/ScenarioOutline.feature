@@ -11,6 +11,6 @@ Scenario Outline: Login with data table
 	And Close the browser 
 	Examples: 
 		|userName             |passWord|
-		|admin@yourstore.com  |  admin|
-		|jhuma@yourstore.com  |  jhuma|
-		|admin23@yourstore.com|  admin234|
+		|admin@yourstore.com  |   admin|
+		|admin@yourstore.com  |   admin|
+		

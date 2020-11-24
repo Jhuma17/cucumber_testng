@@ -2,19 +2,19 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="41463" started-at="2020-11-18T04:48:11Z" finished-at="2020-11-18T04:48:53Z">
+  <suite name="Default suite" duration-ms="25883" started-at="2020-11-22T03:10:45Z" finished-at="2020-11-22T03:11:11Z">
     <groups>
       <group name="cucumber">
-        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:scenario.outline.runner.ScenarioOutlineRunner@6ad82709]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:scenario.outline.runner.ScenarioOutlineRunner@24313fcc]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test name="Default test" duration-ms="41463" started-at="2020-11-18T04:48:11Z" finished-at="2020-11-18T04:48:53Z">
+    <test name="Default test" duration-ms="25883" started-at="2020-11-22T03:10:45Z" finished-at="2020-11-22T03:11:11Z">
       <class name="scenario.outline.runner.ScenarioOutlineRunner">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:scenario.outline.runner.ScenarioOutlineRunner@6ad82709]" name="setUpClass" is-config="true" duration-ms="277" started-at="2020-11-18T04:48:11Z" finished-at="2020-11-18T04:48:12Z">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:scenario.outline.runner.ScenarioOutlineRunner@24313fcc]" name="setUpClass" is-config="true" duration-ms="336" started-at="2020-11-22T03:10:45Z" finished-at="2020-11-22T03:10:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="FAIL" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:scenario.outline.runner.ScenarioOutlineRunner@6ad82709]" name="feature" duration-ms="41022" started-at="2020-11-18T04:48:12Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2020-11-18T04:48:53Z">
+        <test-method status="FAIL" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:scenario.outline.runner.ScenarioOutlineRunner@24313fcc]" name="feature" duration-ms="25341" started-at="2020-11-22T03:10:46Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2020-11-22T03:11:11Z">
           <params>
             <param index="0">
               <value>
@@ -74,16 +74,24 @@ at org.openqa.selenium.By$ByLinkText.findElement(By.java:220)
 at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
 at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
 at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-at com.sun.proxy.$Proxy19.click(Unknown Source)
-at scenariooutline.usa.stepdefinition.ScenarioOutlineStepDefinition.as_a_user_i_can_click_on_logout_link(ScenarioOutlineStepDefinition.java:64)
-at ✽.And As a user i can click on logout link(ScenarioOutline.feature:9)
+at com.sun.proxy.$Proxy19.isDisplayed(Unknown Source)
+at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:670)
+at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:666)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+at com.util.ElementUtility.waitForElement(ElementUtility.java:24)
+at scenariooutline.usa.stepdefinition.ScenarioOutlineStepDefinition.as_a_user_i_can_click_on_logout_link(ScenarioOutlineStepDefinition.java:81)
+at ✽.And As a user i can click on logout link(Cucumber_Features/ScenarioOutline.feature:9)
 ]]>
             </full-stacktrace>
           </exception> <!-- cucumber.runtime.CucumberException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- feature -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:scenario.outline.runner.ScenarioOutlineRunner@6ad82709]" name="tearDownClass" is-config="true" duration-ms="45" started-at="2020-11-18T04:48:53Z" finished-at="2020-11-18T04:48:53Z">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:scenario.outline.runner.ScenarioOutlineRunner@24313fcc]" name="tearDownClass" is-config="true" duration-ms="43" started-at="2020-11-22T03:11:11Z" finished-at="2020-11-22T03:11:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->

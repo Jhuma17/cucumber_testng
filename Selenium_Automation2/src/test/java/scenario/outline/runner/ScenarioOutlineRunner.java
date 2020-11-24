@@ -7,17 +7,14 @@ import cucumber.api.testng.AbstractTestNGCucumberTests;
 		
 		monochrome = true,
 		
-		dryRun = true,
-		
 		plugin= {"pretty","html:target/cucumber-reports/cucumber.json", "json:target/cucumber.json"},
 		 
-		features = "Cucumber_Features",
+		features = "Cucumber_Features/ScenarioOutline.feature",
 		 
 		 glue = "scenariooutline.usa.stepdefinition"
 		
 		
-		
-		           )
+		     )
 
 
     public class ScenarioOutlineRunner extends AbstractTestNGCucumberTests {

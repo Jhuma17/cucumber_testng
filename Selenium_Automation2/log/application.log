@@ -440,3 +440,332 @@
 2020-11-17 23:48:51,422 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
 2020-11-17 23:48:51,860 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
 2020-11-17 23:48:53,292 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-20 21:59:56,623 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-20 22:00:14,197 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-20 22:00:16,948 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-20 22:00:18,034 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-20 22:00:18,224 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-20 22:00:23,226 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-20 22:00:23,295 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-20 22:00:24,720 [main] INFO QA-Tester jhuma - *******> As a user i can verify the login title <*******
+2020-11-20 22:00:27,415 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-20 22:00:33,441 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-20 22:00:36,093 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-20 22:00:36,319 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-20 22:00:36,473 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-20 22:00:36,940 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-20 22:00:37,751 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-20 22:00:37,853 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-20 22:00:43,665 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-20 22:00:45,957 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-20 22:00:46,133 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-20 22:00:46,343 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-20 22:00:47,042 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-20 22:00:47,896 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-20 22:02:35,527 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-20 22:02:41,825 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-20 22:02:43,530 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-20 22:02:43,759 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-20 22:02:43,900 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-20 22:02:46,657 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-20 22:02:46,750 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-20 22:02:48,628 [main] INFO QA-Tester jhuma - *******> As a user i can verify the login title <*******
+2020-11-20 22:02:49,408 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-20 22:02:55,051 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-20 22:02:57,086 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-20 22:02:57,288 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-20 22:02:57,442 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-20 22:02:57,882 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-20 22:02:58,627 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-20 22:02:58,656 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-20 22:03:04,307 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-20 22:03:06,096 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-20 22:03:06,321 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-20 22:03:06,474 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-20 22:03:06,840 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-20 22:03:07,557 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-20 22:05:32,722 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-20 22:05:39,586 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-20 22:05:41,370 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-20 22:05:41,608 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-20 22:05:41,761 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-20 22:05:44,572 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-20 22:05:44,649 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-20 22:05:45,875 [main] INFO QA-Tester jhuma - *******> As a user i can verify the login title <*******
+2020-11-20 22:05:46,682 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-20 22:05:52,470 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-20 22:05:54,738 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-20 22:05:54,909 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-20 22:05:55,071 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-20 22:05:55,498 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-20 22:05:56,288 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-20 22:05:56,343 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-20 22:06:01,871 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-20 22:06:03,709 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-20 22:06:03,920 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-20 22:06:04,083 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-20 22:06:04,851 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-20 22:06:05,581 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-20 22:07:40,568 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-20 22:07:46,738 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-20 22:07:48,841 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-20 22:07:49,113 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-20 22:07:49,319 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-20 22:07:52,575 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-20 22:07:52,629 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-20 22:07:53,757 [main] INFO QA-Tester jhuma - *******> As a user i can verify the login title <*******
+2020-11-20 22:07:55,072 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-20 22:08:00,767 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-20 22:08:02,857 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-20 22:08:03,106 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-20 22:08:03,309 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-20 22:08:03,728 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-20 22:08:05,094 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-20 22:08:05,149 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-20 22:08:10,880 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-20 22:08:12,942 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-20 22:08:13,196 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-20 22:08:13,403 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-20 22:08:14,112 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-20 22:08:14,853 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-20 23:30:27,931 [main] INFO QA-Testing - *******> As a user i can open any browser <*******
+2020-11-20 23:44:05,278 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-20 23:44:11,708 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-20 23:44:13,978 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-20 23:44:14,269 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-20 23:44:14,478 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-20 23:44:17,816 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-20 23:44:17,975 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-20 23:44:19,603 [main] INFO QA-Tester jhuma - *******> As a user i can verify the login title <*******
+2020-11-20 23:44:20,487 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-20 23:44:26,185 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-20 23:44:28,655 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-20 23:44:28,957 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-20 23:44:29,209 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-20 23:44:29,627 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-20 23:44:30,517 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-20 23:44:30,561 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-20 23:44:36,208 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-20 23:44:37,981 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-20 23:44:38,294 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-20 23:44:38,511 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-20 23:44:39,313 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-20 23:44:40,127 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 15:14:04,170 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 15:14:10,920 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 15:14:13,092 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 15:14:13,437 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 15:14:13,665 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 15:14:16,593 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 15:14:16,644 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 15:14:18,088 [main] INFO QA-Tester jhuma - *******> As a user i can verify the login title <*******
+2020-11-21 15:14:18,850 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 15:14:25,981 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 15:14:27,843 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 15:14:28,060 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 15:14:28,250 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 15:14:29,000 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 15:14:29,740 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 15:14:29,792 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 15:14:35,502 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 15:14:36,598 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 15:14:36,836 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 15:14:37,036 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 15:14:37,455 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 15:14:38,170 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 15:21:28,257 [main] INFO QA-Testing - *******> As a user i can open any browser <*******
+2020-11-21 15:21:37,006 [main] INFO QA-Testing - *******> As a user i can enter the url <*******
+2020-11-21 15:23:35,155 [main] INFO QA-Testing - *******> As a user i can open any browser <*******
+2020-11-21 15:23:43,189 [main] INFO QA-Testing - *******> As a user i can enter the url <*******
+2020-11-21 21:52:41,542 [main] INFO QA-Testing - *******> As a user i can open any browser <*******
+2020-11-21 21:52:51,483 [main] INFO QA-Testing - *******> As a user i can enter the url <*******
+2020-11-21 21:54:26,792 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 21:54:33,157 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 21:54:35,424 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 21:54:35,639 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 21:54:41,350 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 21:54:43,386 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 21:54:43,553 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 21:54:51,041 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 21:54:52,636 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 22:03:53,288 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 22:04:00,802 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 22:04:03,107 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 22:04:03,581 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 22:04:03,819 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 22:04:07,210 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 22:04:07,271 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 22:04:08,424 [main] INFO QA-Tester jhuma - *******> As a user i can verify the login title <*******
+2020-11-21 22:04:09,208 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 22:04:14,917 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 22:04:17,360 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 22:04:17,635 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 22:04:17,858 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 22:04:18,948 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 22:04:19,699 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 22:04:19,752 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 22:04:25,644 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 22:04:27,362 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 22:04:27,607 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 22:04:27,815 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 22:04:28,944 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 22:04:29,720 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 22:07:24,333 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 22:07:30,879 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 22:07:33,334 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 22:07:33,655 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 22:07:33,851 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 22:07:37,944 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 22:07:37,997 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 22:07:40,351 [main] INFO QA-Tester jhuma - *******> As a user i can verify the login title <*******
+2020-11-21 22:07:41,871 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 22:07:47,560 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 22:07:49,576 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 22:07:49,887 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 22:07:50,093 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 22:07:51,347 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 22:07:52,075 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 22:07:52,128 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 22:07:57,828 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 22:08:00,209 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 22:08:00,558 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 22:08:00,792 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 22:08:01,642 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 22:08:02,403 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 22:10:46,560 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 22:10:52,899 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 22:10:55,114 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 22:10:55,738 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 22:10:56,270 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 22:10:58,791 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 22:10:59,018 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 22:11:00,224 [main] INFO QA-Tester jhuma - *******> As a user i can verify the login title <*******
+2020-11-21 22:11:01,004 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 22:11:06,684 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 22:11:08,991 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 22:11:09,566 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 22:11:10,172 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 22:11:10,711 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 22:11:11,586 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 22:12:39,002 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 22:12:45,116 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 22:12:47,231 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 22:12:47,817 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 22:12:48,386 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 22:12:51,379 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 22:12:51,545 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 22:12:52,520 [main] INFO QA-Tester jhuma - *******> As a user i can verify the login title <*******
+2020-11-21 22:12:53,323 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 22:12:58,948 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 22:13:01,160 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 22:13:01,814 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 22:13:02,331 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 22:13:03,072 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 22:13:04,379 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 22:24:07,648 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 22:24:13,671 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 22:24:15,463 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 22:24:16,138 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 22:24:16,630 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 22:24:20,118 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 22:24:20,247 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 22:24:21,290 [main] INFO QA-Tester jhuma - *******> As a user i can verify the login title <*******
+2020-11-21 22:24:22,065 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 22:24:27,644 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 22:24:29,424 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 22:24:30,129 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 22:24:30,642 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 22:24:31,443 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 22:24:32,204 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 22:53:32,029 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 22:53:38,292 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 22:53:40,133 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 22:53:40,751 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 22:53:41,270 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 22:53:44,893 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 22:53:44,965 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 22:53:46,554 [main] INFO QA-Tester jhuma - *******> As a user i can verify the login title <*******
+2020-11-21 22:53:47,351 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 22:53:52,999 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 22:53:55,181 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 22:53:55,852 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 22:53:56,449 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 22:53:57,328 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 22:53:58,121 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 22:57:35,818 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 22:57:41,976 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 22:57:44,191 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 22:57:44,799 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 22:57:45,345 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 22:57:47,870 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 22:57:47,995 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 22:57:49,023 [main] INFO QA-Tester jhuma - *******> As a user i can verify the login title <*******
+2020-11-21 22:57:50,009 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 22:57:55,608 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 22:57:56,967 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 22:57:57,711 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 22:57:58,309 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 22:57:59,037 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 22:57:59,737 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 23:06:49,830 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 23:06:55,999 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 23:06:58,915 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 23:06:59,522 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 23:07:00,050 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 23:07:02,675 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 23:07:02,744 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 23:07:04,352 [main] INFO QA-Tester jhuma - *******> As a user i can verify the login title <*******
+2020-11-21 23:07:05,156 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 23:07:10,874 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 23:07:11,984 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 23:07:12,662 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 23:07:13,291 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 23:07:16,477 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 23:07:16,536 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 23:07:17,767 [main] INFO QA-Tester jhuma - *******> As a user i can verify the login title <*******
+2020-11-21 23:10:14,183 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 23:10:20,369 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 23:10:22,143 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 23:10:22,854 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 23:10:23,384 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 23:10:29,192 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 23:10:29,274 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 23:10:30,361 [main] INFO QA-Tester jhuma - *******> As a user i can verify the login title <*******
+2020-11-21 23:10:31,996 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 23:10:37,848 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 23:10:40,190 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 23:10:40,883 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 23:10:41,402 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 23:10:42,191 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 23:10:42,949 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 23:12:33,694 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 23:12:40,047 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 23:12:41,767 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 23:12:42,404 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 23:12:43,017 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 23:12:46,642 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 23:12:46,828 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 23:12:47,841 [main] INFO QA-Tester jhuma - *******> As a user i can verify the login title <*******
+2020-11-21 23:12:48,948 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 23:12:54,464 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 23:12:56,189 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 23:12:56,862 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 23:12:57,397 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 23:12:57,832 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 23:12:58,605 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 23:14:09,531 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 23:14:15,809 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 23:14:17,487 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 23:14:18,124 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 23:14:18,767 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 23:14:22,083 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 23:14:22,159 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 23:14:23,631 [main] INFO QA-Tester jhuma - *******> As a user i can verify the login title <*******
+2020-11-21 23:14:25,024 [main] INFO QA-Tester jhuma - *******> As a user i can open any browser <*******
+2020-11-21 23:14:30,735 [main] INFO QA-Tester jhuma - *******> As a user i can enter the url <*******
+2020-11-21 23:14:32,415 [main] INFO QA-Tester jhuma - *******> As a user i can enter the username <*******
+2020-11-21 23:14:33,022 [main] INFO QA-Tester jhuma - *******> As a user i can enter the password <*******
+2020-11-21 23:14:33,523 [main] INFO QA-Tester jhuma - *******> As a user i can click on login button <*******
+2020-11-21 23:14:35,919 [main] INFO QA-Tester jhuma - *******> As a user i can verify the homepage <*******
+2020-11-21 23:14:36,042 [main] INFO QA-Tester jhuma - *******> As a user i can logout the application <*******
+2020-11-21 23:14:37,544 [main] INFO QA-Tester jhuma - *******> As a user i can verify the login title <*******

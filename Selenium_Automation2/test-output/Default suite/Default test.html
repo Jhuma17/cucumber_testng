@@ -57,9 +57,9 @@ function toggleAllBoxes() {
 <tr>
 <td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Tue Nov 17 23:48:11 EST 2020</td>
+<td>Started on:</td><td>Sat Nov 21 22:10:45 EST 2020</td>
 </tr>
-<tr><td>Total time:</td><td>41 seconds (41463 ms)</td>
+<tr><td>Total time:</td><td>25 seconds (25883 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -120,11 +120,19 @@ Driver info: driver.version: RemoteWebDriver
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
 	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
 	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at com.sun.proxy.$Proxy19.click(Unknown Source)
-	at scenariooutline.usa.stepdefinition.ScenarioOutlineStepDefinition.as_a_user_i_can_click_on_logout_link(ScenarioOutlineStepDefinition.java:64)
-	at ?.And As a user i can click on logout link(ScenarioOutline.feature:9)
-</pre></div><a href='#' onClick='toggleBox("stack-trace827843776", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace827843776'><pre>cucumber.runtime.CucumberException: org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+	at com.sun.proxy.$Proxy19.isDisplayed(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+	at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:670)
+	at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:666)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	at com.util.ElementUtility.waitForElement(ElementUtility.java:24)
+	at scenariooutline.usa.stepdefinition.ScenarioOutlineStepDefinition.as_a_user_i_can_click_on_logout_link(ScenarioOutlineStepDefinition.java:81)
+	at ?.And As a user i can click on logout link(Cucumber_Features/ScenarioOutline.feature:9)
+</pre></div><a href='#' onClick='toggleBox("stack-trace2003305136", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace2003305136'><pre>cucumber.runtime.CucumberException: org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
 Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
 System info: host: &apos;LAPTOP-VCDSLDGR&apos;, ip: &apos;192.168.1.191&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_261&apos;
 Driver info: driver.version: RemoteWebDriver
@@ -168,12 +176,20 @@ Driver info: driver.version: RemoteWebDriver
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
 	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
 	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at com.sun.proxy.$Proxy19.click(Unknown Source)
-	at scenariooutline.usa.stepdefinition.ScenarioOutlineStepDefinition.as_a_user_i_can_click_on_logout_link(ScenarioOutlineStepDefinition.java:64)
-	at ?.And As a user i can click on logout link(ScenarioOutline.feature:9)
+	at com.sun.proxy.$Proxy19.isDisplayed(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+	at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:670)
+	at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:666)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	at com.util.ElementUtility.waitForElement(ElementUtility.java:24)
+	at scenariooutline.usa.stepdefinition.ScenarioOutlineStepDefinition.as_a_user_i_can_click_on_logout_link(ScenarioOutlineStepDefinition.java:81)
+	at ?.And As a user i can click on logout link(Cucumber_Features/ScenarioOutline.feature:9)
 </pre></div></td>
-<td>41</td>
-<td>scenario.outline.runner.ScenarioOutlineRunner@6ad82709</td></tr>
+<td>25</td>
+<td>scenario.outline.runner.ScenarioOutlineRunner@24313fcc</td></tr>
 </table><p>
 </body>
 </html>

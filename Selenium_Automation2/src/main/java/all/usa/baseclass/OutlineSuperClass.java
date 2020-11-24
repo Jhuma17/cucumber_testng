@@ -11,6 +11,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+import com.util.ElementUtility;
+
 public class OutlineSuperClass {
 
     	 public static WebDriver driver;
@@ -22,9 +24,10 @@ public class OutlineSuperClass {
   	}
     	
   	      // Logger
-       public OutlineSuperClass() {
+       public OutlineSuperClass() { //declare constractor for initialized logger
+    	
     	logger = Logger.getLogger("QA-Tester jhuma"); // Added logger
-    	PropertyConfigurator.configure("log4j.properties"); // Added logger
+    	PropertyConfigurator.configure("Log4j.properties"); // Added logger
     	 
      }	 
     		
@@ -41,27 +44,28 @@ public class OutlineSuperClass {
 	     //configure browsers
 	   String br = configProp.getProperty("browser");
 		if(br.equals("firefox")) {
-	 System.setProperty("webdriver.gecko.driver", configProp.getProperty("firefoxbrowser"));
-	   driver = new FirefoxDriver();// called upcasting
+		ElementUtility.getDriver();
+	System.setProperty("webdriver.gecko.driver", configProp.getProperty("firefoxbrowser"));
+	   driver = new FirefoxDriver();  // called upcasting
 
 	}		
 			
 		else if(br.equals("chrome")){
 	 System.setProperty("webdriver.chrome.driver", configProp.getProperty("chromebrowser"));
 	    driver = new ChromeDriver();// called upcasting
-		
+	    ElementUtility.getDriver();
 	}	
 		
 		else if(br.equals("edge")) {
 	  System.setProperty("webdriver.edge.driver", configProp.getProperty("edgebrowser"));
 		 driver = new EdgeDriver();
-		
+		 ElementUtility.getDriver();
 	}
 	    
-		driver.manage().window().maximize();
-		driver.manage().deleteAllCookies();
-		driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
-		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		 driver.manage().window().maximize();
+		//driver.manage().deleteAllCookies();
+      driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);//declare as a global label(called dynamic)
+		                                                                   //TimeUnit import from java
     		
      }
 }

@@ -8,14 +8,15 @@ import cucumber.api.testng.AbstractTestNGCucumberTests;
     	// more clearly can read the file, not mandatory	
         monochrome = true,
     	
-        dryRun = true,	
+       // dryRun = true,
+       	
     	// we generate the report & specify the location
     	
         plugin= {"pretty","html:target/cucumber-reports/cucumber.json", "json:target/cucumber.json"},
     	
     	// location of folder
     	
-        features = "Cucumber2_Features/LoginTestCases.feature",  
+        features = "Cucumber_Features/LoginTestCases.feature",  
 		
     	// location of step definition	  
 	    
